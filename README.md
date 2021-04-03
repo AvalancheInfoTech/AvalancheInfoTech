@@ -4,6 +4,19 @@ Hi  👋
 <br>
 A leading Services provider of information technology in USA and India for IT consulting, and Business Process Outsourcing Services, dedicated to helping the world’s leading companies build stronger businesses.
 
+# OUR VISION
+
+<br>
+We aim to provide solutions for a technologically advanced world & stretch our expectations for our clients in the competitive global marketplace. We staunchly believe that our real success depends on the satisfaction of our esteemed clients and therefore we are committed to deliver. Our vision is to grow partnerships.
+
+# KNOWING ABOUT US
+
+<br>
+<b>WHO ARE WE?</b>
+We, Avalanche InfoTech Pvt Ltd are a leading Services provider of information technology in USA and India for IT consulting.
+<br>
+<b>WE'RE PROFESSIONAL</b>
+We specialize in web design, web development and graphic design for different Desktop, Tablet, and Mobiles Application.
 
 
 <!--
